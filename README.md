@@ -1,6 +1,6 @@
 # Hospitality Dashboard Project using Power BI
 
-This project involves creating an end-to-end dashboard for Atliq Grand, a multiple five-star hotel, to help them address a loss in market share by making data-informed decisions.
+An end-to-end Power BI dashboard built to analyze booking, revenue, and performance data for a five-star hotel group — aimed at reversing market share loss through data-informed business strategy.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
