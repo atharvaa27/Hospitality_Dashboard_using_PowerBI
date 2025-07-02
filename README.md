@@ -48,8 +48,8 @@ The dashboard provided comprehensive insights, enabling Atliq Grand to take acti
 1.	Clone the Repository:
  
 ```
-git clone https://github.com/yourusername/atliq-grand-dashboard.git
-cd atliq-grand-dashboard
+git clone https://github.com/atharvaa27/Hospitality_Dashboard_using_PowerBI.git
+cd Hospitality_Dashboard_using_PowerBI
 ```
 
 2.	Install Dependencies:
